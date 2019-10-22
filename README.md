@@ -12,7 +12,11 @@ These developer builds are provided AS-IS for testing convenience only and shoul
 
 If you encounter problems with a build, try making your own build against current git and see if you can still reproduce it. If so, report bugs directly to the Chromium project.
 
-## Requirements
+## Downloading
+
+See the [releases page on GitHub](https://github.com/brion/chromium-win-arm64/releases) for snapshot downloads built using these instructions.
+
+## Build requirements
 
 Chromium currently builds out of the box for Windows 10 on ARM64, as long as you [follow all the directions](https://chromium.googlesource.com/chromium/src/+/master/docs/windows_build_instructions.md). You should not need to do any custom patching to get a build working, unless there's been a regression.
 
